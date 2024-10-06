@@ -1,0 +1,39 @@
+chmod +x *
+
+./install.sh
+
+-------------------------------+-------------------------------
+
+pip install telebot
+
+pip install flask
+
+chmod +x *
+
+python3 s4.py
+
+------------------------------+------------------------------------
+
+termux-setup-storage
+
+cd /sdcard
+
+apt update 
+
+apt upgrade
+
+pkg install python
+
+cd TERMUXS4
+
+ls
+
+pip install requests
+
+ls
+
+chmod +x *
+
+ls
+
+python SOUL.py
